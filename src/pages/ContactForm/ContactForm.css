@@ -1,0 +1,15 @@
+input {
+    padding: 5px 0;
+}
+
+input,
+textarea,
+Button {
+    width: 70%;
+    margin: 5px 0;
+}
+
+button {
+    outline: 0;
+
+}
